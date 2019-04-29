@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556564534 source:d:\codessecterm\circlebresenham\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
