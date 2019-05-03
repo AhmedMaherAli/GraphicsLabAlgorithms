@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556823291 source:d:\codessecterm\drawellipsepolar\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
