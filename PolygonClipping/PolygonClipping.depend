@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556909616 source:d:\codessecterm\forpolygonclipping\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
+1556911196 source:d:\codessecterm\polygonclipping\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+
